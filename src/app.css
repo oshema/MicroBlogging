@@ -1,0 +1,38 @@
+
+.link {
+    margin-left: 45px;
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.link:hover {
+    color: white;
+    text-decoration: inherit;
+}
+
+
+.navBar{
+    position: relative;
+    width: 1076px;
+    height: 58px;
+    left: 182px;
+    margin: 0;
+    padding: 0;
+
+    background: #343A40;
+    color: #8d9093;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    border-radius: 6px;
+}
+
+.userStatus{
+    margin-top: 3px;
+    margin-left: 600px;
+    
+}
+
+.logoutButton{
+    margin-left: 20px;
+}

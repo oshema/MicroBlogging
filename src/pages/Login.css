@@ -1,0 +1,76 @@
+
+.headerLogin{
+
+    font-size: 36px;
+    line-height: 42px;
+    margin-top: 52px;
+    margin-left: 367px;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.loginBox{
+
+    width: 600px;
+    height: 61px;
+    margin-top: 16px;
+    margin-left: 367px;
+
+    border: 1px solid rgb(191, 195, 233);
+    box-sizing: border-box;
+    border-radius: 6px; 
+}
+
+.loginInput {
+
+    color: rgb(191, 195, 233);
+    background-color: transparent;
+    width: 598px;
+    height: 55px;
+    margin-left: 10px;
+    font-size: 16px;
+    line-height: 19px;
+    
+    border: none;
+    resize: none;
+    outline: none;
+}
+
+.loginButton {
+
+    width: 68px;
+    height: 34px;
+    margin-top: 16px;
+    margin-left: 520px;
+    line-height: 19px;
+}
+
+.authErrorMsg {
+
+    color: rgb(235, 173, 173);
+    background-color: transparent;
+    width: 400px;
+    margin-left: 367px;
+    margin-top: 16px;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.authSuccessMsg {
+
+    color: rgb(153, 192, 164);
+    background-color: transparent;
+    width: 400px;
+    margin-left: 367px;
+    margin-top: 16px;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.googleImg{
+    width: 400px;
+    margin-left: 359px;
+    margin-top: 30px;
+}
+
+

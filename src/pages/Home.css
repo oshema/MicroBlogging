@@ -1,0 +1,153 @@
+
+.resetHistory{
+    position: absolute;
+    top: 0px;
+}
+
+.createTweet {
+
+    position: relative;
+    width: 600px;
+    height: 180px;
+    left: 367px;
+    top: 47px;
+    border: 2px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.tweetTextArea {
+
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #CCCCCC;
+    background-color: transparent;
+    width: 564px;
+    top: 20px;
+    left: 16px;
+    
+    border: none;
+    resize: none;
+    outline: none;
+}
+
+.tweetsList{
+
+    position: relative;
+    width: 600px;
+    height: 100px;
+    left: 367px;
+    top: 53px;
+    margin-top: 15px;
+    background: #343A40;
+    box-sizing: border-box;
+    border-radius: 6px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.profile{
+
+    position: absolute;
+    width: 162px;
+    height: 12px;
+    left: 20px;
+    top: 20px;
+    color: #6C757D;
+}
+
+.tweetDate{
+    
+    position: absolute;
+    width: 169px;
+    height: 16px;
+    top: 18px;
+    right: 20px;
+    color: #6C757D;
+}
+
+.tweetMsg{
+
+    position: absolute;
+    width: 455px;
+    height: 32px;
+    left: 20px;
+    top: 48px;
+    color: #ffffff;
+
+}
+
+.tweetButton {
+
+    position: absolute;
+    width: 68px;
+    height: 34px;
+    bottom: 20px;
+    right: 10px;
+    font-family: 'Roboto';
+}
+
+.charLimitAlert{
+
+    position: absolute;
+    width: 370px;
+    height: 29px;
+    bottom: 4px;
+    left: 20px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.spinner{
+
+    color: white;
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    bottom: 4px;
+    left: 20px;
+}
+
+.errorBox{
+    position: absolute;
+    width: 200px;
+    height: auto;
+    background-color: inherit;
+    border: solid 1px gray;
+    color: red;
+    
+}
+
+.profileImg{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: #343A40;
+    color: #8d9093;
+    left: 1010px;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+
+.pic{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 10px;
+    
+}

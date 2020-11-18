@@ -1,0 +1,70 @@
+
+.headerSignUp{
+
+    font-size: 36px;
+    line-height: 42px;
+    margin-top: 52px;
+    margin-left: 367px;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.signUpBox{
+
+    width: 600px;
+    height: 61px;
+    margin-top: 16px;
+    margin-left: 367px;
+
+    border: 1px solid rgb(191, 195, 233);
+    box-sizing: border-box;
+    border-radius: 6px; 
+}
+
+.signUpInput {
+
+    color: rgb(191, 195, 233);
+    background-color: transparent;
+    width: 598px;
+    height: 55px;
+    margin-left: 10px;
+    font-size: 16px;
+    line-height: 19px;
+    
+    border: none;
+    resize: none;
+    outline: none;
+}
+
+.registerButton {
+
+    width: 88px;
+    height: 34px;
+    margin-top: 16px;
+    margin-left: 500px;
+    line-height: 19px;
+}
+
+.authErrorMsg {
+
+    color: rgb(235, 173, 173);
+    background-color: transparent;
+    width: 400px;
+    margin-left: 367px;
+    margin-top: 16px;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.successMsg {
+
+    color: rgb(153, 192, 164);
+    background-color: transparent;
+    width: 400px;
+    margin-left: 367px;
+    margin-top: 16px;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+
